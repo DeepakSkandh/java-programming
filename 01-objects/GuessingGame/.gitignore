@@ -1,0 +1,10 @@
+# Java compiled bytecode
+*.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Build directories
+out/
+build/
